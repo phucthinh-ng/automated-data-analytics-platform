@@ -1,0 +1,21 @@
+# Môi trường ảo (Virtual Environment) - QUAN TRỌNG NHẤT
+.venv/
+env/
+venv/
+ENV/
+pyvenv.cfg
+
+# Các file rác sinh ra trong quá trình chạy Python
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Cấu hình riêng của Streamlit
+.streamlit/
+
+# Các file cấu hình của IDE (VS Code)
+.vscode/
+
+# File tạm của hệ điều hành
+.DS_Store
+Thumbs.db
